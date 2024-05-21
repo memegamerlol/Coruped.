@@ -1,1 +1,1 @@
-# Coruped. 2.0 is better
+infiniteCoruped works only on laptop on windows 10 and 7
